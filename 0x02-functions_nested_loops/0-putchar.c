@@ -2,7 +2,7 @@
 
 
 /**
- * main -Entry point of my code, 
+ * main - print _putchar
  *
  * Return: Always 0
  */
